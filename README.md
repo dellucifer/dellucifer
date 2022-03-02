@@ -15,6 +15,6 @@
  <li> Django
   
  #Portfolio
-<li><a href="https://dellucifer.github.io/portfolio">Here</a> you can visit my portfolio but it isn't complete yet. Will complete as soon as possible...
+<li><a href="https://dellucifer.github.io/portfolio">Here</a> you can visit my portfolio but it isn't completed yet. Will complete as soon as possible...
  
- Need help in Getting Started with Cybersecurity, text me on <a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a>
+ Need help in Getting Started with Cybersecurity, text me on <a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a> or drop a mail <a href="mailto: pg99285@gmail.com">here</a>.
