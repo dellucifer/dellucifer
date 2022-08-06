@@ -3,8 +3,10 @@
 <li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
 <br><br>
  
+ <p align='center'>
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
-
+ </p>
+  
  #Skills:
  <li> Ethical Hacking
  <li> Penetration Testing
