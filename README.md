@@ -3,7 +3,7 @@
 <li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
 <br><br>
  
-<img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=100%>
+<img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
 
  #Skills:
  <li> Ethical Hacking
