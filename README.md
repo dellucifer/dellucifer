@@ -8,9 +8,9 @@
 </p>
 <hr>
 
-[![Dellucifer's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dellucifer&count_private=true&theme=tokyonight&showicons=true)]()
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dellucifer&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
 
-[![Dellucifer's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&langs_count=5&theme=tokyonight)]()
+<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 <hr>
   
  #Skills:
