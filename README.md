@@ -8,9 +8,9 @@
 </p>
 <hr>
 
-<div><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dellucifer&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-
-<div><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+<div align='center'><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Dellucifer&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+<hr>
+<div align='center'><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 <hr>
   
  #Skills:
