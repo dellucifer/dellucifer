@@ -5,10 +5,10 @@
  
 <p align='center'>
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
-<hr>
 </p>
  
  <div align = "center">
+ <hr>
 ![Dellucifer's Github Status](https://github-readme-stats.vercel.app/api?username=Dellucifer&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 <hr>
 </div>
