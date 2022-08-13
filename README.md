@@ -8,7 +8,8 @@
 </p>
  
 <div align = "center">
-![Dellucifer's github stats](https://github-readme-stats.vercel.app/api?username=Dellucifer)
+[![Dellucifer's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dellucifer&count_private=true&theme=tokyonight&showicons=true)]()
+[![Dellucifer's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&langs_count=5&theme=tokyonight)]()
 <hr/>
 </div>
   
