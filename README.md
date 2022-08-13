@@ -7,12 +7,12 @@
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
 </p>
 
-<p align='center'>
+<div align='center'>
 [![Dellucifer's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dellucifer&count_private=true&theme=tokyonight&showicons=true)]()
-</p>
-<p align='center'>
+</div>
+<div align='center'>
 [![Dellucifer's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&langs_count=5&theme=tokyonight)]()
- </p>
+</div>
 <hr/>
   
  #Skills:
