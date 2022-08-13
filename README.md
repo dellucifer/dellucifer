@@ -7,11 +7,9 @@
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
 </p>
  
-<div align = "center">
 [![Dellucifer's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dellucifer&count_private=true&theme=tokyonight&showicons=true)]()
 [![Dellucifer's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&langs_count=5&theme=tokyonight)]()
 <hr/>
-</div>
   
  #Skills:
  <li> Ethical Hacking
