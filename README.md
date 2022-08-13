@@ -9,7 +9,7 @@
  
 <div align = "center">
 ![Dellucifer's github stats](https://github-readme-stats.vercel.app/api?username=Dellucifer)
-<hr>
+<hr/>
 </div>
   
  #Skills:
