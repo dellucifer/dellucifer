@@ -1,19 +1,17 @@
 ### Hi Guys 👋, Myself Dellucifer, a cybersecurity enthusiast with a global ranking of top 6k on TryHackMe platform and a developer, here I create tools and projects related to cybersecurity, you can connect with me on social platforms using following:
 <li><a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a>
 <li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
-<br><br>
+<br><hr><br>
  
 <p align='center'>
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
 </p>
+<hr>
 
-<div align='center'>
 [![Dellucifer's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Dellucifer&count_private=true&theme=tokyonight&showicons=true)]()
-</div>
-<div align='center'>
+
 [![Dellucifer's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&langs_count=5&theme=tokyonight)]()
-</div>
-<hr/>
+<hr>
   
  #Skills:
  <li> Ethical Hacking
@@ -21,9 +19,10 @@
  <li> Python
  <li> Linux
  <li> Dorking
- <li> HTML/CSS/Bootstrap
- <li> Django
-  
+ <li> HTML/CSS/Bootstrap/React
+ <li> JavaScript
+  <hr>
+ 
  #Portfolio
 <li><a href="https://dellucifer.github.io/portfolio">Here</a> you can visit my portfolio but it isn't completed yet. Will complete as soon as possible...
  
