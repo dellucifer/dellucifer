@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Dellucifer!;I'm+a+React+Developer...;I'm+also+Cybersecurity+guy)](https://git.io/typing-svg)
  
 <p align='center'>
-<img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
+<img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=50%>
 </p>
 <hr>
 
@@ -20,10 +20,8 @@
  <li> Ethical Hacking
  <li> Penetration Testing
  <li> Python
- <li> Linux
- <li> Dorking
- <li> HTML/CSS/Bootstrap/React
- <li> JavaScript
+ <li> ReactJS
+ <li> Competitive Programming
   <hr>
  
  #Portfolio
