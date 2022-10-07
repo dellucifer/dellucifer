@@ -2,6 +2,7 @@
 <li><a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a>
 <li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
 <br><hr><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dellucifer&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
  
 <p align='center'>
 <img src="https://avatars.githubusercontent.com/u/84488210?v=4" width=75%>
