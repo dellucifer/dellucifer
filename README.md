@@ -15,6 +15,9 @@
 <hr>
 <div align='center'><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 <hr>
+
+[![@dellucifer's Holopin board](https://holopin.me/dellucifer)](https://holopin.io/@dellucifer)
+  <hr>
   
  #Skills:
  <li> Ethical Hacking
