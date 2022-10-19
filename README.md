@@ -26,6 +26,9 @@
 [![@dellucifer's Holopin board](https://holopin.me/dellucifer)](https://holopin.io/@dellucifer)
   <hr>
   
+[![Del's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dellucifer&label=Profile%20views&color=0e75b6&style=flat&theme=merko)](https://git.io/J1Ycx)
+<hr>
+  
 ## Skills:
  <li> Ethical Hacking
  <li> Penetration Testing
