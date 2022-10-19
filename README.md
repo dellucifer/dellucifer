@@ -1,6 +1,7 @@
-### Hi Guys 👋, Myself Dellucifer, a cybersecurity enthusiast with a global ranking of top 6k on TryHackMe platform and a developer, here I create tools and projects related to cybersecurity, you can connect with me on social platforms using following:
+### Hi Guys 👋, Myself Dellucifer, a cybersecurity enthusiast🛡️ with a global ranking of top 6k on TryHackMe platform and a developer⚙️, also have a keen intrest in Cloud☁️. You can connect with me on social platforms using following:
 <li><a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a>
 <li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
+<li><a href="mailto:pg99285@gmail.com">Email</a>
 <br><hr><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellucifer&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
  
@@ -15,7 +16,13 @@
 <hr>
 <div align='center'><img style="height: auto; width: 60%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dellucifer&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
 <hr>
-
+ 
+## Open Source Contests Participated
+- Hacktober Fest 2022
+- Hacksquad
+- Smart India Hackathon
+ <hr>
+ 
 [![@dellucifer's Holopin board](https://holopin.me/dellucifer)](https://holopin.io/@dellucifer)
   <hr>
   
