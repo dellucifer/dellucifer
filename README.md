@@ -1,6 +1,5 @@
-### Hi Guys 👋, Myself Dellucifer, a cybersecurity enthusiast🛡️ with a global ranking of top 6k on TryHackMe platform and a developer⚙️, also have a keen intrest in Cloud☁️. You can connect with me on social platforms using following:
+### Hi Guys 👋, Myself Priyanshu Choudhary, a tech enthusiast with a good grip in development and problem solving. I have also interests in Cyber Security domain like ethical hacking and pentesting. Apart from this, I have quite good management skills too. I love and eager to learn new stuff.
 <li><a href="https://www.linkedin.com/in/priyanshu-choudhary-004270209/">LinkedIN</a>
-<li><a href="https://tryhackme.com/p/priyanshu99285">TryHackMe</a>
 <li><a href="mailto:pg99285@gmail.com">Email</a>
 <br><hr><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellucifer&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
