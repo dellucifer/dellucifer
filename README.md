@@ -4,7 +4,7 @@
 <br><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dellucifer&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Dellucifer!;I'm+a+React+Developer...;I'm+also+Cybersecurity+guy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Priyanshu!;I'm+a+passionate+tech+enthusiast...)](https://git.io/typing-svg)
 
 <hr>
 
